@@ -15,5 +15,7 @@ public abstract class Piece
 	{
 		return board;
 	}
+	
+	
 
 }
